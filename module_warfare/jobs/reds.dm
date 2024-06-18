@@ -1,24 +1,35 @@
-/datum/job/red_soldier
+/datum/job/soldier/red
 	title = JOB_RED_SOLDIER
-/datum/job/red_sapper
+/datum/job/sapper/red
 	title = JOB_RED_SAPPER
-/datum/job/red_sniper
+/datum/job/sniper/red
 	title = JOB_RED_SNIPER
-/datum/job/red_gunner
+/datum/job/gunner/red
 	title = JOB_RED_GUNNER
-/datum/job/red_squad_leader
+/datum/job/squad_leader/red
 	title = JOB_RED_SQUAD_LEADER
-/datum/job/red_commander
+/datum/job/commander/red
 	title = JOB_RED_COMMANDER
 
-/datum/outfit/warfare/red/soldier
+/datum/outfit/warfare/soldier/red
 	name = "(RED) Soldier"
-	display_name = "RED Soldier"
-	desc = "Ready for combat."
 
-	l_hand = /obj/item/gun/ballistic/rifle/boltaction
-	l_pocket = /obj/item/knife/combat
-	uniform = /obj/item/clothing/under/syndicate/rus_army
-	suit = /obj/item/clothing/suit/armor/vest
-	head = /obj/item/clothing/head/helmet/rus_helmet
-	gloves = /obj/item/clothing/gloves/tackler/combat/insulated
+	uniform = /obj/item/warfare/clothing/under/red_suit
+
+
+/datum/outfit/warfare/sapper/red
+	name = "(RED) Sapper"
+
+/datum/outfit/warfare/sniper/red
+	name = "(RED) Sniper"
+
+/datum/outfit/warfare/gunner/red
+	name = "(RED) Gunner"
+
+/datum/outfit/warfare/squad_leader/red
+	name = "(RED) Squad Leader"
+
+/datum/outfit/warfare/commander/red
+	name = "(RED) Commander"
+
+

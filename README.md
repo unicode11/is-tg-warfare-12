@@ -9,6 +9,13 @@
 
 ## TO-DO
 Эм. Рабочая версия.
+Партизанеры <br />
+Жёлтые <br />
+Зелёные <br />
+Режимы: <br />
+TDM - PARTISANS vs RED/BLUE/YELLOWS/GREENS <br />
+CP - Фракционка за контроль территорий <br />
+CTF - Фракционка за флаг
 
 ## LICENSE
 https://bit.ly/3C9r1aJdrg
