@@ -6271,4 +6271,9 @@
 #include "interface\fonts\spess_font.dm"
 #include "interface\fonts\tiny_unicode.dm"
 #include "interface\fonts\vcr_osd_mono.dm"
+#include "module_warfare\jobs\blues.dm"
+#include "module_warfare\jobs\green.dm"
+#include "module_warfare\jobs\jobs.dm"
+#include "module_warfare\jobs\reds.dm"
+#include "module_warfare\jobs\yellows.dm"
 // END_INCLUDE
