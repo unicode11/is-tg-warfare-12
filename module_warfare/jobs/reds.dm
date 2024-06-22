@@ -1,5 +1,7 @@
 /datum/job/soldier/red
 	title = JOB_RED_SOLDIER
+/datum/job/medic/red
+	title = JOB_RED_SOLDIER
 /datum/job/sapper/red
 	title = JOB_RED_SAPPER
 /datum/job/sniper/red
@@ -11,25 +13,14 @@
 /datum/job/commander/red
 	title = JOB_RED_COMMANDER
 
+
+/datum/outfit/warfare/basic/red
+	name = "(RED) Base"
+
+	uniform = /obj/item/clothing/under/suit/warfare/redistan
+
 /datum/outfit/warfare/soldier/red
 	name = "(RED) Soldier"
 
-	uniform = /obj/item/warfare/clothing/under/red_suit
-
-
-/datum/outfit/warfare/sapper/red
-	name = "(RED) Sapper"
-
-/datum/outfit/warfare/sniper/red
-	name = "(RED) Sniper"
-
-/datum/outfit/warfare/gunner/red
-	name = "(RED) Gunner"
-
-/datum/outfit/warfare/squad_leader/red
-	name = "(RED) Squad Leader"
-
-/datum/outfit/warfare/commander/red
-	name = "(RED) Commander"
-
+	uniform = /obj/item/clothing/under/suit/warfare/redistan
 

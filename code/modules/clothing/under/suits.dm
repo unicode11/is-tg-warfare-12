@@ -13,6 +13,8 @@
 	inhand_icon_state = "dg_suit"
 	worn_icon = 'icons/mob/clothing/under/captain.dmi'
 
+
+
 /obj/item/clothing/under/suit/red //Also used by the Curator's suit, /obj/item/clothing/under/rank/civilian/curator
 	name = "red suit"
 	desc = "A red suit and blue tie. Somewhat formal."
