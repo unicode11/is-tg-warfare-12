@@ -18,8 +18,8 @@
 	name = "(RED) Base"
 
 	uniform = /obj/item/clothing/under/suit/warfare/redistan
-	head = /obj/item/clothing/helmet/warfare/red/soldier
-	//mask =
+	head = /obj/item/clothing/head/warfare/red/soldier
+	mask = /obj/item/clothing/mask/warfare/gas
 	//ears =
 	shoes = /obj/item/clothing/shoes/jackboots
 	//neck =
@@ -32,9 +32,4 @@
 	//l_hand =
 	//l_pocket =
 	//r_pocket =
-
-/datum/outfit/warfare/soldier/red
-	name = "(RED) Soldier"
-
-	uniform = /obj/item/clothing/under/suit/warfare/redistan
 

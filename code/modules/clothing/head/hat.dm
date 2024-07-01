@@ -11,6 +11,13 @@
 	armor_type = /datum/armor/hats_centhat
 	strip_delay = 80
 
+/obj/item/clothing/head/warfare/red/soldier
+	name = "Red Helmet"
+	desc = "I'll add description here."
+	icon_state = "helmet"
+	icon = 'module_warfare/icons/obj/clothing/helmets/red.dmi'
+	worn_icon = 'module_warfare/icons/mob/clothing/helmets/red.dmi'
+
 /datum/armor/hats_centhat
 	melee = 30
 	bullet = 15
